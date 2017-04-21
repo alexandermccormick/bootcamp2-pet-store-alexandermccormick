@@ -1,0 +1,68 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:300,400,700|Satisfy');
+/*font-family: 'Satisfy', cursive;*/
+/*font-family: 'Open Sans', sans-serif;*/
+
+/*==== HEADER ====*/
+
+.logo {
+  width: 90px;
+}
+
+header h1 {
+  color: #FF827B;
+  font-family: 'Satisfy', cursive;
+  margin-top: 20px;
+}
+
+nav.directory {
+  top: 20px;
+}
+
+nav.directory li {
+  font-size: 20px;
+}
+
+li a {
+  color: #61AEE6;
+  font-weight: 400;
+  font-family: 'Open Sans', sans-serif;
+}
+
+a:focus, a:hover {
+  color: #FF827B;
+  text-decoration: none;
+}
+/*==== END HEADER ====*/
+
+/*==== JUMBOTORN ====*/
+.jumbotron {
+  background-image: url('../img/hero.jpg');
+  background-size: cover;
+  background-position: center;
+  height: 450px;
+}
+
+.jumbotron h2 {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 300;
+  color: #FFF;
+  text-shadow: 0 0 30px #a8a8a8;
+}
+/*==== END JUMBOTRON ====*/
+
+/*==== CONTENT ====*/
+
+.features {
+  margin-bottom: 60px;
+}
+
+.thumbnail {
+  padding: 15px;
+  background-color: #D3D3D3;
+
+}
+
+/*nav.container {
+  padding: 0 50px;
+}*/
+/*==== END CONTENT ====*/
