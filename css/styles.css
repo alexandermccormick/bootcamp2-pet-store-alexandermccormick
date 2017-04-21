@@ -46,7 +46,7 @@ a:focus, a:hover {
   font-family: 'Open Sans', sans-serif;
   font-weight: 300;
   color: #FFF;
-  text-shadow:1px 1px 10px #333;
+  text-shadow: 0 0 30px #a8a8a8;
 }
 /*==== END JUMBOTRON ====*/
 
