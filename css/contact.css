@@ -1,3 +1,8 @@
+.content {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
 iframe {
   height: 300px;
   width: 450px;
